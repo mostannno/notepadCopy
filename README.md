@@ -5,4 +5,5 @@ a javascript function to copy your text to notepad with form.
 用法/usage:
 import handleCopy from './handleCopy'
 
+dom是你要监听copy事件的dom元素
 dom.onCopy = handleCopy;
